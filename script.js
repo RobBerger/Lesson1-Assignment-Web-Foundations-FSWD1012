@@ -2,7 +2,7 @@ function stringCounter(sentence){
     sentence = sentence.split(" ");
     let numberOfWordsInSentence = sentence.length;
     console.log(sentence);
-    console.log(numberOfWordsInSentence);
+    console.log("No. of Words: " + numberOfWordsInSentence);
 }
 
 // TEST CASE 1
